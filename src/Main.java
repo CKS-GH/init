@@ -207,6 +207,7 @@ public class Main {
             System.out.println("COM2" + computer2.getCardsBox());
             System.out.println("COM3" + computer3.getCardsBox());
             System.out.println("PLAY" + player.getCardsBox());
+            System.out.println("123");
 
 
         } while (win(player.getCardsBox().size(),computer1.getCardsBox().size(),
